@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 
-const API_KEY = "b7f7b80597c116fd29fb38c45e818f37";
+const API_KEY = "ENTER_YOUR_API_KEY";
 
 function App() {
   const [movies, setMovies] = useState([]);
